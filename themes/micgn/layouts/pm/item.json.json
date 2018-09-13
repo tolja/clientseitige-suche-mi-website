@@ -1,0 +1,4 @@
+{
+  "name" : "{{ .Title }}",
+  "content": "{{.RawContent | jsonify }}"
+}

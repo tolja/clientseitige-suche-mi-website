@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hier kann man studieren! on Medieninformatik an der TH Köln</title>
+    <link>https://th-koeln.github.io/mi-website-2018/study/</link>
+    <description>Recent content in Hier kann man studieren! on Medieninformatik an der TH Köln</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="https://th-koeln.github.io/mi-website-2018/study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medieninformatik Master</title>
+      <link>https://th-koeln.github.io/mi-website-2018/study/master/dd/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://th-koeln.github.io/mi-website-2018/study/master/dd/</guid>
+      <description>&lt;p&gt;Der Master Studiengang ist postgradual, d.h. zur Zulassung ist ein erfolgreich abgeschlossener grundständiger Studiengang erforderlich, z.B. der Medieninformatik Bachelor. Der Medieninformatik Master ist auf vier Fachsemester ausgelegt und schließt mit dem Master of Science ab. Klingt gut, oder?&lt;/p&gt;
+
+&lt;p&gt;Der Masterstudiengang Medieninformatik ist inhaltlich durch seine Studienschwerpunkte Human Computer Interaction,  Multi-Perspective Product Development, Social Computing, Visual Computing und Weaving the Web charakterisiert.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

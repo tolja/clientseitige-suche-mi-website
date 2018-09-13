@@ -1,0 +1,16 @@
+<!-- Menu -->
+<div class="m-sidebar">
+
+    <figure class="m-sidebar--logo">
+    	<img src="{{ "img/logo-th-koeln.png" | absURL }}" alt="Logo TH Köln">
+	</figure>
+
+    <ul class="m-sidebar--menu">
+		{{ $currentPage := . }} {{ range .Site.Sections }}
+		<li>
+			<a class="sidebar-nav-item" href="{{ .URL }}" title="{{ .LinkTitle }}">{{ .LinkTitle }}</a>
+        </li>
+        {{ end }}
+
+    </ul>
+</div>
